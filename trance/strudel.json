@@ -1,8 +1,6 @@
 {
     "trance": [
-        "/trance/AM Studios - Punchy Trance Kick 002 - G.wav",
-        "/trance/AM Studios - Punchy Trance Kick 014 - G#.wav",
-        "/trance/AM Studios - Punchy Trance Kick 017 - G#.wav"
+        "/trance/01_kick.wav"
     ],
     "_base": "https://raw.githubusercontent.com/gerritanne/strudel-samples/main/"
 }
