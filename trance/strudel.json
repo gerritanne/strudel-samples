@@ -1,0 +1,8 @@
+{
+    "trance": [
+        "/trance/10_ctvox.wav",
+        "/ctvox/11_ctvox.wav",
+        "/ctvox/12_ctvox.wav"
+    ],
+    "_base": "https://raw.githubusercontent.com/gerritanne/strudel-samples/main/"
+}
